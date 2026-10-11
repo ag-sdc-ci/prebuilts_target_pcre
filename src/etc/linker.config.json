@@ -1,0 +1,19 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_libpcre2.a-x86_64-v2.so",
+		    "libdummy_binary_libpcre2.a.so",
+		    "libdummy_ext_libpcre2-x86_64-v2.so",
+		    "libdummy_ext_libpcre2.so",
+		    "libdummy_headers_ext_libpcre2-x86_64-v2.so",
+		    "libdummy_headers_ext_libpcre2.so",
+		    "libpcre2-x86_64-v2.so",
+		    "libpcre2.so"
+	],
+	"requireLibs": [	
+		    "libc++_shared.so",
+		    "libc.so",
+		    "libdl.so",
+		    "libm.so"
+	],
+	"visible": true
+}
