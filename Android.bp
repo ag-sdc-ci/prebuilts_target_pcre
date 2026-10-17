@@ -42,7 +42,7 @@ cc_defaults {
     "-google-global-names-in-headers",
     ],
     local_include_dirs: [
-    "include",
+        "src/include",
     ],
-    export_include_dirs: ["include"],
+    export_include_dirs: ["src/include"],
 }
